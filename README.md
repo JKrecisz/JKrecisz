@@ -1,6 +1,6 @@
 ## About me
 - 🇵🇱 Live in Krakow
-- <img width="16" height="25" src="https://user-images.githubusercontent.com/93099511/147900026-69716fff-2473-4111-8560-4a5977f49665.png"> CS student, Jagiellonian University
+- <img width="16" height="25" src="https://user-images.githubusercontent.com/93099511/147900026-69716fff-2473-4111-8560-4a5977f49665.png"> Jagiellonian University, CS
 - 📚 Currently learning python
 
 
