@@ -1,7 +1,7 @@
 ## About me
-- 🇵🇱 Live in Krakow, Poland
-- <img width="14" height="22" src="https://user-images.githubusercontent.com/93099511/147900026-69716fff-2473-4111-8560-4a5977f49665.png">  Study at Jagiellonian University, CS
-- 📚 Currently learning python
+- Live in Krakow, Poland
+- Study at Jagiellonian University, CS
+- Currently learning python
 
 
 
