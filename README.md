@@ -1,8 +1,9 @@
 ## About me
-- Live in Krakow, Poland
+- Live in Cracow, Poland
 - Study at Jagiellonian University, CS
+- Interested in reading books, developing and math
 - Currently learning python
-
+- Next targets: java, javascript
 
 
 ## Stats
